@@ -6,6 +6,8 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.mount('lazy');
+  this.mount('eager');
 });
 
 export default Router;

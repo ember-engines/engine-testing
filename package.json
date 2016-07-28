@@ -39,5 +39,14 @@
     "ember-resolver": "^2.0.3",
     "ember-welcome-page": "^1.0.1",
     "loader.js": "^4.0.1"
+  },
+  "dependencies": {
+    "ember-engines": "^0.2.8"
+  },
+  "ember-addon": {
+    "paths": [
+      "lib/eager",
+      "lib/lazy"
+    ]
   }
 }

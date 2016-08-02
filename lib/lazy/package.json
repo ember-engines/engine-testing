@@ -12,7 +12,9 @@
   },
   "ember-addon": {
     "paths": [
-      "lib/foo"
+      "lib/eager-in-lazy",
+      "lib/lazy-in-lazy",
+      "lib/vanilla-addon-in-lazy"
     ]
   }
 }

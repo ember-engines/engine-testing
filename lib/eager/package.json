@@ -8,5 +8,12 @@
     "ember-ajax": "*",
     "ember-cli-babel": "^5.1.6",
     "ember-cli-htmlbars": "*"
+  },
+  "ember-addon": {
+    "paths": [
+      "lib/eager-in-eager",
+      "lib/lazy-in-eager",
+      "lib/vanilla-addon-in-eager"
+    ]
   }
 }

@@ -42,12 +42,14 @@
     "loader.js": "^4.0.1"
   },
   "dependencies": {
-    "ember-engines": "^0.2.8"
+    "ember-engines": "^0.2.8",
+    "lodash.defaultsdeep": "^4.5.1"
   },
   "ember-addon": {
     "paths": [
       "lib/eager",
-      "lib/lazy"
+      "lib/lazy",
+      "lib/vanilla"
     ]
   }
 }

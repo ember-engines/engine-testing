@@ -42,6 +42,7 @@
     "loader.js": "^4.0.1"
   },
   "dependencies": {
+    "broccoli-stew": "^1.4.0",
     "ember-engines": "^0.2.8",
     "lodash.defaultsdeep": "^4.5.1"
   },
@@ -49,7 +50,7 @@
     "paths": [
       "lib/eager",
       "lib/lazy",
-      "lib/vanilla"
+      "lib/vanilla-addon"
     ]
   }
 }

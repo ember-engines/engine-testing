@@ -1,0 +1,13 @@
+{
+  "name": "tree-invocation-order",
+  "keywords": [
+    "ember-addon",
+    "ember-engine"
+  ],
+  "dependencies": {
+    "ember-ajax": "*",
+    "ember-cli-babel": "^5.1.6",
+    "ember-cli-htmlbars": "*",
+    "ember-engines": "*"
+  }
+}

@@ -42,6 +42,8 @@
     "loader.js": "^4.0.1"
   },
   "dependencies": {
+    "broccoli-funnel": "^1.1.0",
+    "broccoli-merge-trees": "^1.2.1",
     "broccoli-stew": "^1.4.0",
     "ember-engines": "ember-engines/ember-engines",
     "lodash.defaultsdeep": "^4.5.1"
@@ -50,6 +52,7 @@
     "paths": [
       "lib/eager",
       "lib/lazy",
+      "lib/tree-invocation-order",
       "lib/vanilla-addon"
     ]
   }

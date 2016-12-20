@@ -1,7 +1,7 @@
 {
-  "name": "engine-test",
+  "name": "engine-testing",
   "version": "0.0.0",
-  "description": "Small description for engine-test goes here",
+  "description": "Small description for engine-testing goes here",
   "private": true,
   "directories": {
     "doc": "doc",

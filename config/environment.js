@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'engine-test',
+    modulePrefix: 'engine-testing',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',

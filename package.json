@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "broccoli-stew": "^1.4.0",
-    "ember-engines": "^0.2.8",
+    "ember-engines": "ember-engines/ember-engines",
     "lodash.defaultsdeep": "^4.5.1"
   },
   "ember-addon": {

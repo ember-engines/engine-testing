@@ -5,9 +5,10 @@
     "ember-engine"
   ],
   "dependencies": {
-    "ember-ajax": "*",
+    "broccoli-funnel": "*",
+    "broccoli-merge-trees": "*",
+    "broccoli-stew": "*",
     "ember-cli-babel": "^5.1.6",
-    "ember-cli-htmlbars": "*",
-    "ember-engines": "*"
+    "ember-cli-htmlbars": "*"
   }
 }

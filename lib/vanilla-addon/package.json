@@ -2,5 +2,8 @@
   "name": "vanilla",
   "keywords": [
     "ember-addon"
-  ]
+  ],
+  "dependencies": {
+    "ember-cli-babel": "*"
+  }
 }

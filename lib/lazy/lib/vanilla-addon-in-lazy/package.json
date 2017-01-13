@@ -2,5 +2,8 @@
   "name": "vanilla-addon-in-lazy",
   "keywords": [
     "ember-addon"
-  ]
+  ],
+  "dependencies": {
+    "ember-cli-babel": "*"
+  }
 }

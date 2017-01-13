@@ -6,9 +6,8 @@
   ],
   "dependencies": {
     "ember-ajax": "*",
-    "ember-cli-babel": "^5.1.6",
-    "ember-cli-htmlbars": "*",
-    "ember-engines": "*"
+    "ember-cli-babel": "*",
+    "ember-cli-htmlbars": "*"
   },
   "ember-addon": {
     "paths": [

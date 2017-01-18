@@ -1,17 +1,11 @@
 {
-  "name": "lazy-in-lazy",
+  "name": "eager-in-lazy-in-lazy",
   "keywords": [
     "ember-addon",
     "ember-engine"
   ],
   "dependencies": {
-    "ember-ajax": "*",
     "ember-cli-babel": "*",
     "ember-cli-htmlbars": "*"
-  },
-  "ember-addon": {
-    "paths": [
-      "lib/eager-in-lazy-in-lazy"
-    ]
   }
 }

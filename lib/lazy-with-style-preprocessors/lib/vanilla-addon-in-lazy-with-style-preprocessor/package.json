@@ -1,0 +1,11 @@
+{
+  "name": "vanilla-addon-in-lazy-with-style-preprocessor",
+  "keywords": [
+    "ember-addon",
+    "ember-engine"
+  ],
+  "dependencies": {},
+  "ember-addon": {
+    "paths": []
+  }
+}
